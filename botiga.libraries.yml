@@ -1,0 +1,9 @@
+botiga:
+  version: 1.0
+  css:
+    theme:
+      css/botiga.css: {}
+  js:
+    js/botiga.js: {}
+  dependencies:
+    - core/jquery

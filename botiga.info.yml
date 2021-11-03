@@ -1,0 +1,9 @@
+name: botiga
+description: Pagína de acceso a tienda online.
+package: Sularyy
+
+type: module
+core: 8.x
+
+libraries:
+  - botiga/botiga

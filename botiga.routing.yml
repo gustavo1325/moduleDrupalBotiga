@@ -1,0 +1,7 @@
+botiga.template:
+  path: '/compra_a_la_rural'
+  defaults:
+    _controller: '\Drupal\botiga\Controller\botigaController::template'
+    _title: 'botiga online'
+  requirements:
+    _permission: 'access content'

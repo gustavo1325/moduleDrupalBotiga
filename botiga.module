@@ -1,0 +1,12 @@
+<?php
+
+function botiga_theme($existing, $type, $theme, $path) {
+return [
+  'botiga' => [
+    'variables'=> [
+     'tlf1'=> NULL,
+     'tlf2'=> NULL,
+   ],
+ ],
+];
+}
